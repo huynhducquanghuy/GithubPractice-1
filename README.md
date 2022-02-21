@@ -26,5 +26,7 @@ Từ bài tập 1, tạo nhánh mới và tạo file git_infomation.txt chứa t
 ## Nộp bài tập:
 - Thông báo cho bạn Hồ Minh Huy tại comment của post bên dưới hình.
 
-![comment](https://user-images.githubusercontent.com/64391153/154935413-a8799ce9-a8a5-4aa0-9d8e-cc9b744295e7.PNG)
+![comment 1](https://user-images.githubusercontent.com/64391153/154940913-f55d5b88-18f1-4486-a7b7-a014f1592964.PNG)
+
+
 ### Happy coding!!!
