@@ -1,5 +1,8 @@
 # Bài tập Git test
-
+## Chú ý chung
+- Làm theo hướng dẫn như ở phần workflow ở cuối của slide git.
+Thông tin: 
+Company repo: https://github.com/OSD-Royho-2011/GitTest
 ## 1. Bài tập 1
 -  Tạo nhánh mới 
 -  Tạo folder mang tên mình và đẩy lên github.
